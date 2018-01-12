@@ -1,2 +1,1 @@
-third git test
-changes to third file
+THIRD MORE CHANGES
